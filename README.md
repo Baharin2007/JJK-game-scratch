@@ -1,5 +1,5 @@
 # 🎮 JIK Game (Scratch)  
-*A simple anime-themed game built with Scratch!*
+*A simple anime-themed game built with Scratch*
 ## 🕹️ How to Play  
 1. Download the `.sb3` file.  
 2. Upload it to [Scratch](https://scratch.mit.edu/) to play
